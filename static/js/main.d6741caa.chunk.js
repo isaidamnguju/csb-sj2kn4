@@ -1,0 +1,2 @@
+(this.webpackJsonpaamier=this.webpackJsonpaamier||[]).push([[0],{4:function(e,t){},5:function(e,t,c){"use strict";c.r(t);var n=c(0),r=c(3),o=c(4),a=c.n(o),i=c(1),s=document.getElementById("root");Object(r.createRoot)(s).render(Object(i.jsx)(n.StrictMode,{children:Object(i.jsx)(a.a,{})}))}},[[5,1,2]]]);
+//# sourceMappingURL=main.d6741caa.chunk.js.map
